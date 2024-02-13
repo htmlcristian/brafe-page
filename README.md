@@ -15,6 +15,7 @@ Para visualizar o projeto localmente, siga estas etapas:
 
 1. Clone ou baixe este repositório em seu ambiente de desenvolvimento.
 2. Abra o arquivo `index.html` em um navegador da web.
+3. Ou acesse o link 'htmlcristian.github.io/brafe-page/'.
 
 ## HTML:
 O arquivo `index.html` contém a estrutura básica do site, dividida em seções para diferentes partes do conteúdo, como cabeçalho, introdução, produtos, locais e assinatura da newsletter.
